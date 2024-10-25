@@ -66,7 +66,7 @@ export license="MIT"
 export runtime="nodejs"
 
 # Options with a colon must provide a value
-LONG_OPTS=dir:description:,help,license:, prefix:,runtime:
+LONG_OPTS=dir:description:,help,license:,prefix:,runtime:
 OPTIONS=d:,h,-p:,r:
 
 # Standardize options and arguments
